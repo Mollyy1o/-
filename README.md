@@ -1,0 +1,1 @@
+Based on data from a European bank, this article predicts the probability of bank customer churn using Python code. Logistic regression, random forest, and SVM algorithms are used to compare the predicted probabilities of the algorithms through multiple indicators.
